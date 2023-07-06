@@ -1,0 +1,92 @@
+ [
+  {
+    "id": 1,
+    "modelName": "Gigi Hadid",
+    "category": "Women",
+    "address": "New York, NY",
+    "nextDate": "new Date()",
+    "brand": "Tommy Hilfiger",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "modelName": "Kendall Jenner",
+    "category": "Women",
+    "address": "Los Angeles, CA",
+    "nextDate": "new Date()",
+    "brand": "Calvin Klein",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "modelName": "Bella Hadid",
+    "category": "Women",
+    "address": "New York, NY",
+    "nextDate": "new Date()",
+    "brand": "Dior",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "modelName": "Lucky Blue Smith",
+    "category": "Men",
+    "address": "Los Angeles, CA",
+    "nextDate": "new Date()",
+    "brand": "Tom Ford",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "modelName": "Sean O'Pry",
+    "category": "Men",
+    "address": "Kennesaw, GA",
+    "nextDate": "new Date()",
+    "brand": "Versace",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "modelName": "Cara Delevingne",
+    "category": "Women",
+    "address": "London, UK",
+    "nextDate": "new Date()",
+    "brand": "Burberry",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "modelName": "David Gandy",
+    "category": "Men",
+    "address": "Billericay, UK",
+    "nextDate": "new Date()",
+    "brand": "Dolce & Gabbana",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "modelName": "Adwoa Aboah",
+    "category": "Women",
+    "address": "London, UK",
+    "nextDate": "new Date()",
+    "brand": "Chanel",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "modelName": "Jon Kortajarena ",
+    "category": "Men",
+    "address": "Bilbao, Spain",
+    "nextDate": "new Date()",
+    "brand": "Tom Ford",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "modelName": "Jourdan Dunn",
+    "category": "Women",
+    "address": "London, UK",
+    "nextDate": "new Date()",
+    "brand": "Maybelline",
+    "isActive": true
+  }
+]
