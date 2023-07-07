@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import React, { useState } from "react";
 
 import ToggleButton from "@mui/material/ToggleButton";
 import ToggleButtonGroup from "@mui/material/ToggleButtonGroup";
@@ -15,7 +15,7 @@ import { useFilterContext } from "../context/filter";
 
 import MainTable from "./Table";
 
-const Filters = () => {
+const Filters: React.FC = () => {
   const { updateFilters, updateSort, allModels } = useFilterContext();
 
   let category = ["All", ...new Set(allModels?.map((item) => item.category))];
@@ -147,7 +147,7 @@ const Filters = () => {
           )}
         />
       </Stack>
-      <Divider sx={{ bgcolor: "black" , mb: 3}} />
+      <Divider sx={{ bgcolor: "black", mb: 3 }} />
 
       <MainTable />
     </>
