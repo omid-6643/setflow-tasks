@@ -1,5 +1,5 @@
 "use client";
-import MainTable from "./Table";
+import MainTable from "../components/Table";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
 const queryClient = new QueryClient();

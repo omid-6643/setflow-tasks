@@ -4,7 +4,7 @@
     "modelName": "Gigi Hadid",
     "category": "Women",
     "address": "New York, NY",
-    "nextDate": "new Date()",
+    "nextDate": "2020-05-12T23:50:21.817Z",
     "brand": "Tommy Hilfiger",
     "isActive": true
   },
@@ -13,7 +13,7 @@
     "modelName": "Kendall Jenner",
     "category": "Women",
     "address": "Los Angeles, CA",
-    "nextDate": "new Date()",
+    "nextDate": "2020-05-13T23:50:21.817Z",
     "brand": "Calvin Klein",
     "isActive": true
   },
@@ -22,7 +22,7 @@
     "modelName": "Bella Hadid",
     "category": "Women",
     "address": "New York, NY",
-    "nextDate": "new Date()",
+    "nextDate": "2020-05-20T23:50:21.817Z",
     "brand": "Dior",
     "isActive": true
   },
@@ -31,7 +31,7 @@
     "modelName": "Lucky Blue Smith",
     "category": "Men",
     "address": "Los Angeles, CA",
-    "nextDate": "new Date()",
+    "nextDate": "2020-02-12T23:50:21.817Z",
     "brand": "Tom Ford",
     "isActive": true
   },
@@ -40,7 +40,7 @@
     "modelName": "Sean O'Pry",
     "category": "Men",
     "address": "Kennesaw, GA",
-    "nextDate": "new Date()",
+    "nextDate": "2020-12-12T23:50:21.817Z",
     "brand": "Versace",
     "isActive": true
   },
@@ -49,7 +49,7 @@
     "modelName": "Cara Delevingne",
     "category": "Women",
     "address": "London, UK",
-    "nextDate": "new Date()",
+    "nextDate": "2020-01-01T23:50:21.817Z",
     "brand": "Burberry",
     "isActive": true
   },
@@ -58,7 +58,7 @@
     "modelName": "David Gandy",
     "category": "Men",
     "address": "Billericay, UK",
-    "nextDate": "new Date()",
+    "nextDate": "2020-03-078T23:50:21.817Z",
     "brand": "Dolce & Gabbana",
     "isActive": true
   },
@@ -67,7 +67,7 @@
     "modelName": "Adwoa Aboah",
     "category": "Women",
     "address": "London, UK",
-    "nextDate": "new Date()",
+    "nextDate": "2020-08-22T23:50:21.817Z",
     "brand": "Chanel",
     "isActive": true
   },
@@ -76,7 +76,7 @@
     "modelName": "Jon Kortajarena ",
     "category": "Men",
     "address": "Bilbao, Spain",
-    "nextDate": "new Date()",
+    "nextDate": "2020-09-20T23:50:21.817Z",
     "brand": "Tom Ford",
     "isActive": true
   },
@@ -85,7 +85,7 @@
     "modelName": "Jourdan Dunn",
     "category": "Women",
     "address": "London, UK",
-    "nextDate": "new Date()",
+    "nextDate": "2020-07-07T23:50:21.817Z",
     "brand": "Maybelline",
     "isActive": true
   }
